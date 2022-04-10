@@ -9,7 +9,10 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque laudantium q
 
 
 #### Here's a cool image:  
-![Raccoon](/images/raccoon.jpg)  
+<!-- This image is too big, and I'm too lazy to resize manually -->
+<!-- ![Raccoon](/images/raccoon.jpg)  -->
+<!-- I decided to use html instead -->
+<img src="/images/raccoon.jpg" alt="Raccoon" style="width:250px;">  
 
 #### Here's a cool video:  
 [It's exactly what you might think it is](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Robert Lauv, a first-year UCI student.
+
 <!--
 **rlmech/rlmech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

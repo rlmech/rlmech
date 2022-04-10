@@ -1,18 +1,15 @@
-### Hi there 👋
+## Hi there, welcome to my profile! 👋  
+# I'm **Robert Lauv** (he/him), a *first-year* UCI student majoring in Computer Science.  
 
-I'm Robert Lauv, a first-year UCI student.
+### About Me  
+I enjoy looking at cool websites and was interested in learning how to make them, so I decided to participate in the *UCI ICSSC Projects Fellowship*.  
+Maybe by the end I'll have made something cool.  
 
-<!--
-**rlmech/rlmech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque laudantium quidem, consectetur nemo neque natus, laboriosam vitae repellendus maiores facere alias quasi nisi reiciendis! Eaque architecto nobis reprehenderit id consectetur libero autem repellendus, doloremque ab consequuntur ut dignissimos iste at, minima placeat, possimus modi vero odit consequatur suscipit. Corrupti, amet?
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Here's a cool image:  
+![Raccoon](/images/raccoon.jpg)  
+
+#### Here's a cool video:  
+[It's exactly what you might think it is](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  

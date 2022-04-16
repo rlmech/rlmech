@@ -1,6 +1,8 @@
 ## Hi there, welcome to my profile! 👋  
 # I'm **Robert Lauv** (he/him), a *first-year* UCI student majoring in Computer Science.  
 
+I added this random sentence."
+
 ### About Me  
 I enjoy looking at cool websites and was interested in learning how to make them, so I decided to participate in the *UCI ICSSC Projects Fellowship*.  
 Maybe by the end I'll have made something cool.  

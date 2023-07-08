@@ -1,7 +1,14 @@
 ## Hi there, welcome to my profile! 👋  
-# I'm **Robert Lauv** (he/him), a *second-year* UCI student majoring in Computer Science.  
+# I'm **Robert Lauv** (he/him), a *third-year* UCI student majoring in Computer Science, expected to graduate June 2024
 
-A few classes I've taken:
+# Skills
+Programming: Python, C++, C, Java, JavaScript, HTML, CSS, MIPS Assembly
+Libraries: Matplotlib, NumPy, React
+Data: MySQL, PSQL, CQL, SparkQL, MongoDB, Neo4J
+Software: Git, Docker
+OS: Windows, Unix
+
+# A few classes I've taken:
  - I&C SCI 32A: Python Programming with Libraries (Accelerated)
  - I&C SCI 33: Intermediate Python Programming
  - I&C SCI 46: Data Structures and Algorithms (C++)

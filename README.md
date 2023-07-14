@@ -3,9 +3,13 @@
 
 # Skills
 Programming: Python, C++, C, Java, JavaScript, HTML, CSS, MIPS Assembly
+
 Libraries: Matplotlib, NumPy, React
+
 Data: MySQL, PSQL, CQL, SparkQL, MongoDB, Neo4J
+
 Software: Git, Docker
+
 OS: Windows, Unix
 
 # A few classes I've taken:
@@ -15,10 +19,14 @@ OS: Windows, Unix
  - I&C SCI 51: Computer Organization (MIPS Assembly)
  - I&C SCI 53: Principles in System Design (C)
 
+---
+
  - I&C SCI 6B: Boolean Logic and Discrete Structures
  - I&C SCI 6D: Discrete Mathematics
  - Math 2B: Single-Variable Calculus II
  - Math 3A: Introduction to Linear Algebra
+
+---
 
  - CS 116: Computational Photography and Vision (Python, Numpy, Matplotlib, Sklearn)
  - CS 122A: Data Management (MySQL)
@@ -26,6 +34,8 @@ OS: Windows, Unix
  - CS 161: Design and Analysis of Algorithms
  - CS 171: Introduction to Artificial Intelligence (Python)
  - CS 178: Machine Learning and Data Mining (Python, Numpy, Matplotlib, Sklearn)
+
+---
 
  - INF 115: Software Testing, Analysis, and Quality Assurance
  - INF 121: Software Design: Applications
